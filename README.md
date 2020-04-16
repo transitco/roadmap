@@ -11,3 +11,5 @@ We want to share with our customers what we plan to do early and often so we can
 You can create issues to submit ideas. Watch out for duplicates!
 Also you can vote for ideas submitted so it gives it more visibility.
 
+This great roadmap methodology is inspired by Docker: https://github.com/docker/roadmap
+
